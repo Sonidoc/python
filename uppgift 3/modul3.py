@@ -101,8 +101,6 @@ else:
 
 
 
-#ioigjewigwiojgwijgepri
-
 radie = input("Vad är det du vill räkna ut:")
 print("svar:" , radie**2 *3.14 )
 

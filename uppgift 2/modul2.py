@@ -51,7 +51,6 @@ print("svar:", int(x) * int (y))
 # upphöjt görs med **
 # modulo görs med % och visar på resten
 
-
 name = input("Vad mitt namn är? Jag glum.")
 
 print(name +"," + " Just det, det är mitt namn ")
